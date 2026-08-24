@@ -1,4 +1,4 @@
-# Hola! I'm Connor.
+# Hola! I'm Jean.
 Currently working on some some toy compilers for game development using LLVM & MLIR.<br>I'm a fan of all things game development. Feel free to ask me anything!
 
 
